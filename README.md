@@ -1,1 +1,2 @@
+The problem of driver drowsiness detection poses a significant risk to road safety, with the potential for severe injuries and fatalities resulting from accidents caused by drowsy driving. To address this critical issue, there is a pressing need for the development of a robust and accurate real-time drowsiness detection system.The ultimate objective is to devise a sophisticated system capable of reliably identifying drowsiness signs, employing a proactive approach to ensure road safety and effectively preventing accidents arising from driver fatigue.
 # project
