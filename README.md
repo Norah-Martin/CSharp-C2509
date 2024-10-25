@@ -6,3 +6,6 @@ SQL <br/>
       Assignment-03--"https://github.com/Norah-Martin/CSharp-C2509/blob/master/SQLQuery1.sql" <br/>
       Assignment-04--"https://github.com/Norah-Martin/CSharp-C2509/blob/main/Desktop/c%23.net/visual%20studio/SQL-C2509/SQLQuery4.sql" 
 
+OOPS<br/>
+      Assignment-07--"https://github.com/Norah-Martin/CSharp-C2509/tree/master/Assignment7/Assignment7"<br/>
+
