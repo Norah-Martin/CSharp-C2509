@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="Script4.js"></script>
+    <title>To Do List</title>
+    <style>
+    body{
+    
+    background:url("Images/bcg4.png")
+    }
+    li{
+        font-size:40px;
+    }
+        input {
+            font-size: 30px;
+            margin: 10%;
+            padding: 20px;
+            width: 550px;
+            height: 60px;
+            border: 1px solid black;
+            text-align: center;
+            
+            background-color:#6f1175;
+        }
+        
+    button {
+            margin: 10%;
+            padding: 20px;
+            width: 100px;
+            height: 60px;
+            border: 1px solid black;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+   
+    <input   type="text" id="task" placeholder="Enter a new task" />
+    <button onclick="addTask()">ADDTASK</button>
+    <ul id="tasklist"></ul>
+
+</body>
+</html>

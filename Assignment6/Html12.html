@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="Script12.js"></script>
+    <meta charset="utf-8" />
+    <title>StopWatch</title>
+    <style>
+        body {
+            background: url("Images/bcg4.jpg");
+        }
+        button {
+            align-content:flex-start;
+            align-items:center;
+            display: flex;
+            float: left;
+            margin-right: 16px;
+            background-color: #55094c;
+            width: 100px;
+            height: 100px;
+            font-size: 30px;
+        }
+        .cen {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; 
+            text-align: center;
+            flex-direction: column;
+        }
+
+        h4 {
+            font: 300;
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="cen">
+    <button type="button" onclick="start=setInterval(begin,1000)">Start</button>
+   
+    <button type="button" onclick="clearInterval(start)">Stop</button>
+
+    <button type="button" onclick="reset()">Reset</button>
+    </div>
+        <h4  id="demo">00:00</h4>
+</body>
+</html>

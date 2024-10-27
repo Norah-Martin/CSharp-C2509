@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="Script10.js"></script>
+    <title>Tip Calculator</title>
+    <style>
+        body {
+            background: url("Images/bcg4.jpg");
+        }
+
+        p {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 100px;
+        }
+        input {
+            width: 100px;
+            height: 100px;
+            background-color: #55094c;
+            font-size: 30px;
+        }
+
+        button {
+            align-content: flex-start;
+            align-items: center;
+            display: flex;
+            float: left;
+            margin-right: 16px;
+            background-color: #55094c;
+            width: 100px;
+            height: 100px;
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>Enter the bill amount:</h3>
+    <input type="text" id="amount" />
+    
+
+    <br />
+
+    <h3>Select the tip:</h3>
+
+    <button type="button" onclick="ten()">10%</button>
+    <button type="button" onclick="fifty()">50%</button>
+    <button type="button" onclick="hund()">100%</button>
+    <br />
+    <br />
+    <br />
+    <h3 id="result">Amount To Be Paid:</h3>
+
+</body>
+</html>
