@@ -1,0 +1,52 @@
+﻿.inside {
+
+    background-color: gray;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+.form-container {
+    align-content:flex-start;
+    align-items:flex-start;
+    font-family: Arial;
+    font-size: medium;
+    text-align: center;
+    border-radius: 4px;
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+label {
+    padding: 8px;
+   
+}
+input {
+    width: 100%;
+    padding: 4px;
+    border-radius: 4px;
+    border: 1px solid #000000;
+    color: black;
+    background-color: lightgray;
+    box-sizing: border-box;
+}
+button {
+    padding: 10px;
+    background-color: #08762f;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+input[type="radio"] {
+    accent-color: darkgreen;
+    background-color: lightgray;
+   
+}
+
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/09/14/33/abstract-3304213_640.png");
+    text-align: left;
+}

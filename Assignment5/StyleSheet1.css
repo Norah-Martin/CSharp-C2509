@@ -1,0 +1,16 @@
+﻿h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkred;
+}
+h2{ 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:maroon
+}
+p{
+    color:black;
+}
+
+body {
+    background-color:gainsboro;
+    border-image:url('Images\icon.png') 20% stretch;
+}

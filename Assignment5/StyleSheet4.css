@@ -1,0 +1,56 @@
+﻿header {
+    background-color: black;
+    font-family: 'Freestyle Script';
+    text-align: center;
+    color: #6e114f;
+    font-weight: 400;
+}
+
+body {
+    color: black;
+    background-color:whitesmoke;
+    text-align:left;
+    
+}
+
+.image {
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.violet {
+    font-family: 'Freestyle Script', cursive;
+    color: #6e114f;
+    text-align: center;
+}
+
+.post-info {
+    color: gray;
+    font-size: 0.9em;
+}
+
+h3 {
+    color: grey;
+}
+table{
+ 
+    border-collapse:collapse;
+    width:100%;
+
+}
+th {
+    background-color: #6e114f;
+    color: white;
+    padding: 10px;
+    text-align:center;
+}
+tr {
+    background-color: #9c3a80;
+}
+td {
+    padding: 10px;
+    text-align: center;
+}

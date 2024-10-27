@@ -1,0 +1,47 @@
+﻿h1, h2, h3,h4,h5 {
+    font-family:'Times New Roman';
+        color: black
+    
+}
+body h1 {
+    text-align: center;
+    
+}
+.center-image {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+footer h5{
+    text-align:right;
+    margin:5px;
+}
+.info
+{
+    color:navy;
+}
+
+
+p {
+    font-family:Calibri;
+    color:black;
+
+
+}
+body{
+    background-color:lightgrey;
+}
+body h4,h5{
+    color:maroon;
+}
+.info1
+{
+    margin:38px;
+    text-align:left;
+    padding:10px;
+}
+

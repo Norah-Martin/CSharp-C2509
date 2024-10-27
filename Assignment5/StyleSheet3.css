@@ -1,0 +1,56 @@
+﻿h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black
+}
+a:hover{
+    color:red;
+}
+a:before{
+    color:darkblue;
+}
+body {
+    font-family:Calibri;
+    color:black;
+}
+.para{
+   
+    background-color:darkred;
+    display:inline-block;
+    padding:1px;
+    
+    color:white
+}
+.yellow{
+    background-color: #ffd800;
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.blue {
+    color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.blue img{
+    margin-right:10px;
+}
+    .blue p {
+        margin: 0;
+        display: inline-flex;
+        align-items: end;
+    }
+.image1 {
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    -webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+}
+

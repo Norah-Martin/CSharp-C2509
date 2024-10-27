@@ -1,0 +1,56 @@
+﻿div.a {
+    
+    align-self:auto;
+    align-items: stretch;
+    aspect-ratio: auto;
+    padding:20px;
+    justify-content: flex-end; 
+    margin-right: 20px;
+}
+div.b {
+    block-size: 20%;
+    border: dotted;
+    border-color: black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+form {
+    
+    background-image: url('Images/bcg3.jpg')  ;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    border: dashed 2px;
+}
+label {
+    margin: 10px 0;
+    width: 100%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:400;
+    color:white;
+}
+
+input {
+    margin: 10px 0;
+    width: 100%;
+
+    padding: 8px;
+    border-radius: 5px;
+    border: 3px  solid black;
+}
+button {
+    padding: 10px;
+    background-color: #08762f;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+body {
+    background: url('Images/owl-curious.gif') white repeat-y right ;
+    background-blend-mode: darken;
+    background-size: auto;
+
+}
+
