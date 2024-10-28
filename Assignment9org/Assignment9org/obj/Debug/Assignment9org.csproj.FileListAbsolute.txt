@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignment9org\Assignment9org\obj\Debug\Assignment9org.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignment9org\Assignment9org\obj\Debug\Assignment9org.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignment9org\Assignment9org\bin\Debug\Assignment9org.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignment9org\Assignment9org\bin\Debug\Assignment9org.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignment9org\Assignment9org\bin\Debug\Assignment9org.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignment9org\Assignment9org\obj\Debug\Assignment9org.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignment9org\Assignment9org\obj\Debug\Assignment9org.pdb
