@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignments\Assigment13\bin\Debug\Assigment13.exe.config
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignments\Assigment13\bin\Debug\Assigment13.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignments\Assigment13\bin\Debug\Assigment13.pdb
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignments\Assigment13\obj\Debug\Assigment13.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignments\Assigment13\obj\Debug\Assigment13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignments\Assigment13\obj\Debug\Assigment13.exe
+C:\Users\ASUS\Desktop\c#.net\visual studio\Assignments\Assigment13\obj\Debug\Assigment13.pdb

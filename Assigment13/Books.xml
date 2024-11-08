@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+	<Book>
+		<Title>The Twilight Saga</Title>
+		<Author>Stephenie Meyer</Author>
+		<Year>2005</Year>
+	</Book>
+	<Book>
+		<Title>The Da Vinci Code</Title>
+		<Author>Dan Brown</Author>
+		<Year>2003</Year>
+	</Book>
+	<Book>
+		<Title>The Power</Title>
+		<Author>Naomi Alderman</Author>
+		<Year>2016</Year>
+	</Book>
+	<Book>
+		<Title>The Seven Husbands of Evelyn Hugo</Title>
+		<Author>Taylor Jenkins Reid</Author>
+		<Year>2017</Year>
+	</Book>
+</Books>
