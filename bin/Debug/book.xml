@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>i am malala</Title>
+  <Author>malala</Author>
+  <ISBN>12345</ISBN>
+</Book>
